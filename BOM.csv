@@ -4,10 +4,3 @@ Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
 "180 degree servo motors","The movement of the legs",5,14.60,"https://www.aliexpress.com/item/1005013088290438.html?spm=a2g0o.detail.0.0.7661Al0vAl0vla&mp=1&pdp_npi=6%40dis%21AUD%21AUD+41.39%21AUD+14.60%21%21AUD+14.60%21%21%21%402101dedf17936147052834299e0cd4%2112000060192951509%21ct%21AU%216195149778%21%211%210%21","AliExpress"
 "Accelerometer MPU6050","To rotate and position the rocket for landing",1, 2.73,"https://www.aliexpress.com/item/1005010057794277.html?spm=a2g0o.detail.0.0.3c70SflSSflSn3&mp=1&pdp_npi=6%40dis%21AUD%21AUD+2.90%21AUD+2.73%21%21AUD+2.73%21%21%21%402101dedf17936147886606600e0cd4%2112000050979433010%21ct%21AU%216195149778%21%211%210%21","AliExpress"
 "Distance Sensor VL53L0X","To detect the distance to the ground",1, 4.13,"https://www.aliexpress.com/item/1005009986621721.html?spm=a2g0o.cart.0.0.4d2738daUHRrtp&mp=1&pdp_npi=6%40dis%21AUD%21AUD+9.37%21AUD+4.13%21%21AUD+4.13%21%21%21%402101ea8f17936140938553325e09af%2112000050764347595%21ct%21AU%216195149778%21%211%210%21","AliExpress"
-
-
-Other things to consider
--> Power Supply
--> M3 Screws
--> Nylon Thread
--> Parachute
